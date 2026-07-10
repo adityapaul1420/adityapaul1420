@@ -16,7 +16,8 @@ Building low-level software that connects hardware and code.
 I'm an **Electronics & Telecommunication Engineering** student passionate about **Embedded Firmware Development**, **ARM-based Microcontrollers**, and **Hardware–Software Integration**.
 
 I enjoy writing clean, efficient, and reliable code while continuously learning the technologies behind modern embedded systems.
-the thing fascinates me is the Firmware - Core software that does not require any change in information/Communication data. It is held in memory devices such as rom and used like a hardware 
+
+The thing fascinates me is the Firmware - Core software that does not require any change in information/Communication data. It is held in memory devices such as rom (non Volatile memory) that directly controls hardware.
 
 ---
 
